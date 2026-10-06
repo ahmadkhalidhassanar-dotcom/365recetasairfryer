@@ -1,0 +1,6 @@
+{
+  "name": "365 Recetas Deliciosas para Air Fryer",
+  "description": "Landing page oficial para el libro digital 365 Recetas Deliciosas para Air Fryer con 6 bonos exclusivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
